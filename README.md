@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+Simple project to handle infinite scroll in React using the pokemon API
+
 ## Available Scripts
 
 In the project directory, you can run:
