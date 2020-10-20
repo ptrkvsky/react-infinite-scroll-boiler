@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-Simple project to handle infinite scroll in React using the [Unsplash API](https://source.unsplash.com/randomhttps://source.unsplash.com/)
+Simple project to handle infinite scroll in React using the [Unsplash API](https://source.unsplash.com/)
 [Demo](https://react-infinite-scroll-boiler.netlify.app/)
 
 ## Available Scripts
