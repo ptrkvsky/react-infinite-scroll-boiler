@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react';
+import React from 'react';
 
 import logo from './pokeball.svg';
 import './App.css';

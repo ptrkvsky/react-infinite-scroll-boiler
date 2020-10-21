@@ -1,7 +1,6 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import usePokemons from '../hooks/usePokemons';
 import PokemonItem from './PokemonItem';
-import LocomotiveScroll from 'locomotive-scroll';
 
 const PokemonList = ({ refApp }) => {
   const [pokemons, setPokemons] = usePokemons();
